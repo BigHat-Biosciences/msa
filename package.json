@@ -1,7 +1,7 @@
 {
   "name": "@bighatbio/msa",
   "description": "Display multiple sequences",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "homepage": "http://github.com/BigHat-Biosciences/msa",
   "repository": {
     "type": "git",
