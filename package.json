@@ -1,11 +1,11 @@
-{ 
-  "name": "msa",
+{
+  "name": "@bighatbio/msa",
   "description": "Display multiple sequences",
-  "version": "0.0.0",
-  "homepage": "http://github.com/wilzbach/msa",
+  "version": "1.0.4",
+  "homepage": "http://github.com/BigHat-Biosciences/msa",
   "repository": {
     "type": "git",
-    "url": "git://github.com/wilzbach/msa"
+    "url": "git://github.com/BigHat-Biosciences/msa"
   },
   "contributors": [
     {
@@ -22,6 +22,16 @@
       "name": "Guy Yachdav",
       "email": "yachdav@rostlab.org",
       "url": "https://www.linkedin.com/in/gyachdav"
+    },
+    {
+      "name": "Jeremy Hert",
+      "email": "jhert@bighatbio.com",
+      "url": "https://www.linkedin.com/in/jeremy-hert"
+    },
+    {
+      "name": "Edward Abrams",
+      "email": "eddie@bighatbio.com",
+      "url": "https://www.linkedin.com/in/zeroaltitude"
     }
   ],
   "author": "Sebastian Wilzbach <sebi.wilzbach@gmail.com>",
@@ -42,7 +52,7 @@
     "lodash": "^4.13.1",
     "mouse-pos": "^1.0.3",
     "msa-colorschemes": "^1.0.10",
-    "stat.seqs": "^0.1.21",
+    "@bighatbio/stat.seqs": "^0.1.22",
     "xhr": "^2.2.0"
   },
   "devDependencies": {
